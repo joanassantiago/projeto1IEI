@@ -1,4 +1,3 @@
-# projeto1 IEI
-- Projeto em Latex sobre Eletroencefalografia e Eye Tracking
-- Projeto realizado para a cadeira de IEI no curso de ECI da UA
-- Realizado por: Joana Santiago (119705) e Dinis Bernardo (120420)
+Template em português do trabalho de aprofundamento de Introdução à Engenharia Informática
+
+English template for the report work of Introdução à Engenharia Informática
