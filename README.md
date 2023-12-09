@@ -1,3 +1,3 @@
-Template em português do trabalho de aprofundamento de Introdução à Engenharia Informática
-
-English template for the report work of Introdução à Engenharia Informática
+# Projeto Latex
+- Projeto realizado para a cadeira de Introdução a Engenharia Informática no curso de ECI da UA
+- Realizado por: Joana Santiago (119705) e Dinis Bernardo (120420)
